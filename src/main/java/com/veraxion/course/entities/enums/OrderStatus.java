@@ -1,7 +1,5 @@
 package com.veraxion.course.entities.enums;
 
-import org.hibernate.engine.spi.Status;
-
 public enum OrderStatus {
 
 	WAITING_PAYMENT(1),
